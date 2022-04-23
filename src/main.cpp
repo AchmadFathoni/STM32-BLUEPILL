@@ -7,7 +7,7 @@ void setup() {
 }
 
 void loop() {
-    Serial.println("Checkem\n");
+    Serial.println("feedem");
     digitalWrite(PC13, state = !state);
     delay(2000);
 }
