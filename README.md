@@ -3,6 +3,8 @@ A working example of platformio project for programming Bluepill microcontroller
 **Note**
 * After uploading you program, the LED will blink and you need to hit the reset button immediatly to complete the upload.
 * You need lib32-zlib on Archlinux:will
+:qa
+:qa
 * If you not see this then your upload is failed
 ```
 Determining device status: state = dfuIDLE, status = 0
