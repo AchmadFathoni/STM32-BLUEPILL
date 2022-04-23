@@ -1,9 +1,9 @@
 A working example of platformio project for programming Bluepill microcontroller via USB. You must install Maple firmware into you Bluepill first.
 
 **Note**
-After uploading you program, the LED will blink and you need to hit the reset button immediatly to complete the upload.
-
-If you not see this then your upload is failed
+* After uploading you program, the LED will blink and you need to hit the reset button immediatly to complete the upload.
+* You need lib32-zlib on Archlinux:will
+* If you not see this then your upload is failed
 ```
 Determining device status: state = dfuIDLE, status = 0
 dfuIDLE, continuing
